@@ -8,7 +8,7 @@
         <title>FoodTruck - Inicio</title>
     </head>
     <body>
-        <h1>Bienvenido a FoodTruck</h1>
+        <h1>Bienvenido a FoodTruck Hormiguero</h1>
     
         <p>Esta es la pagina de inicio de tu aplicación Spring MVC.</p>
         <!--Enlaces de prueba -->
